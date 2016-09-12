@@ -19,6 +19,13 @@
       ]
     },
     {
+      "born": 1952,
+      "firstname": "Manoel",
+      "children": [
+        {"born": 1982, "firstname": "Manoela"}
+      ]
+    },
+    {
       "born": 1953,
       "firstname": "João",
       "children": [
