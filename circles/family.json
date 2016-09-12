@@ -1,5 +1,5 @@
 {"born": 1890, "firstname": "", "children": [
-  {"born": 1931, "firstname": "Manoel Agemiro", "children": [
+  {"born": 1931, "firstname": "Manoel Cândido", "children": [
     {"born": 1975, "firstname": "Josevaldo", "children": []},
     {"born": 1978, "firstname": "Jailton", "children": []},
     {"born": 1979, "firstname": "Jailma", "children": []},
@@ -154,7 +154,7 @@
       ]
     }
   ]},
-  {"born": 1933, "firstname": "Maria Santa", "children": [
+  {"born": 1933, "firstname": "Adelaide", "children": [
     {
       "born": 1957,
       "firstname": "Joel",
@@ -195,7 +195,7 @@
       "children": [
         {
           "born": 1974,
-          "firstname": "Kleber",
+          "firstname": "Klleber",
           "children": [
           ]
         },
