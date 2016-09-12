@@ -96,7 +96,7 @@ d3.json("family.json", function(error, root) {
       .text(function(d) { return d; });
 
   svg.selectAll(".title")
-    .data(["João Grande"])
+    .data(["João Grande e Adelina"])
     .enter().append("text")
       .attr("class", "title")
       .attr("transform", function(d) { return "translate(-50,20)" })
