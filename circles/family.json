@@ -99,6 +99,60 @@
     }
   ]},
   {"born": 1933, "firstname": "Vicente", "children": [
+    {
+      "born": 1969,
+      "firstname": "Maria",
+      "children": [
+      ]
+    },
+    {
+      "born": 1970,
+      "firstname": "Pascoal",
+      "children": [
+      ]
+    },
+    {
+      "born": 1971,
+      "firstname": "Adelina",
+      "children": [
+      ]
+    },
+    {
+      "born": 1972,
+      "firstname": "Joelma",
+      "children": [
+      ]
+    },
+    {
+      "born": 1973,
+      "firstname": "Aurino",
+      "children": [
+      ]
+    },
+    {
+      "born": 1977,
+      "firstname": "Luzia",
+      "children": [
+      ]
+    },
+    {
+      "born": 1978,
+      "firstname": "Juliane",
+      "children": [
+      ]
+    },
+    {
+      "born": 1979,
+      "firstname": "Nilton",
+      "children": [
+      ]
+    },
+    {
+      "born": 1981,
+      "firstname": "Aurélia",
+      "children": [
+      ]
+    }
   ]},
   {"born": 1933, "firstname": "Maria Santa", "children": [
   ]},
