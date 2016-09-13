@@ -209,8 +209,8 @@
       "firstname": "Aurino",
       "children": [
           {
-            "born": 2012,
-            "firstname": "Arthur",
+            "born": 2014,
+            "firstname": "Artur",
             "children": []
           }
       ]
@@ -332,6 +332,9 @@
     {"born": 1960, "firstname": "Manoel", "children": []},
     {"born": 1960, "firstname": "José", "children": []},
     {"born": 1960, "firstname": "Honório", "children": []},
+    {"born": 1960, "firstname": "Nilson", "children": []},
+    {"born": 1960, "firstname": "Juarez", "children": []},
+    {"born": 1960, "firstname": "Edilson", "children": []},
     {"born": 1960, "firstname": "Marli", "children": []},
     {"born": 1960, "firstname": "Edna", "children": []},
     {"born": 1960, "firstname": "Regina", "children": []}
