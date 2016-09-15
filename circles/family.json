@@ -150,7 +150,7 @@
       {"born": 1988, "firstname": "Marcos", "children": []}
   ]},
   {"born": 1935, "firstname": "Adelaide", "children": [
-    {"born": 1955, "firstname": "Maria", "children": []},
+    {"born": 1955, "firstname": "Maria dos Anjos", "children": []},
     {
       "born": 1956,
       "firstname": "Cyra",
@@ -218,7 +218,7 @@
       ]
     },
     {"born": 1960, "firstname": "Laurita", "children": []},
-    {"born": 1960, "firstname": "Lica", "children": []},
+    {"born": 1964, "firstname": "Maria da Conceição", "children": [{"born": 1988, "firstname": "Alesandra", "children": [{"born": 2011, "firstname": "Gabriel", "children": []}]}]},
     {"born": 1960, "firstname": "Manoel", "children": []},
     {"born": 1960, "firstname": "José", "children": []},
     {"born": 1960, "firstname": "Honório", "children": []},
