@@ -150,7 +150,42 @@
       {"born": 1988, "firstname": "Marcos", "children": []}
   ]},
   {"born": 1935, "firstname": "Adelaide", "children": [
-    {"born": 1955, "firstname": "Maria dos Anjos", "children": []},
+    {
+      "born": 1955,
+      "firstname": "Maria dos Anjos",
+      "children": [
+        {
+          "born": 1978,
+          "firstname": "Roberto",
+          "children": [
+          ]
+        },
+        {
+          "born": 1978,
+          "firstname": "Robson",
+          "children": [
+          ]
+        },
+        {
+          "born": 1978,
+          "firstname": "Rogério",
+          "children": [
+          ]
+        },
+        {
+          "born": 1978,
+          "firstname": "Elaine",
+          "children": [
+          ]
+        },
+        {
+          "born": 1978,
+          "firstname": "Ângela",
+          "children": [
+          ]
+        }
+      ]
+    },
     {
       "born": 1956,
       "firstname": "Cyra",
