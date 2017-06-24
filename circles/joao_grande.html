@@ -36,6 +36,8 @@
   </style>
 </head>
 <body>
+  <div id="container">
+  </div>
   Se quiser me ajudar a preencher esta árvore, por favor,
   <a href="mailto:arvore@mauriciovieira.net">me mande email</a> ou fale <a href="http://facebook.com/mbcvieira">comigo no facebook</a>.
 
@@ -64,7 +66,7 @@ var diagonal = d3.svg.diagonal.radial()
     .target(function(d){ return {x: d.target.x, y: getY(d.target)};})
     .projection(function(d) { return [d.y, d.x / 180 * Math.PI]; });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#container").append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
   .append("g")
