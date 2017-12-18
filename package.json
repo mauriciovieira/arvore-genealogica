@@ -1,0 +1,27 @@
+{
+  "name": "arvore-genealogica",
+  "version": "1.0.0",
+  "description": "My paternal family genealogy tree",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciovieira/arvore-genealogica.git"
+  },
+  "keywords": [
+    "genealogy",
+    "tree",
+    "d3.js"
+  ],
+  "author": "Mauricio Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciovieira/arvore-genealogica/issues"
+  },
+  "homepage": "https://github.com/mauriciovieira/arvore-genealogica#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
