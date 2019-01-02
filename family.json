@@ -37,9 +37,12 @@
       "firstname": "Maria da Glória",
       "children": [
         {"born": 1980, "firstname": "Vívian", "children": [
-          {"born": 2015, "firstname": "Miguel"}
+          {"born": 2015, "firstname": "Miguel"},
+          {"born": 2018, "firstname": "Ana Julia"}
         ]},
-        {"born": 1984, "firstname": "Victor"}
+        {"born": 1984, "firstname": "Victor", "children": [
+          {"born": 2018, "firstname": "Maria Eduarda"}
+        ]}
       ]
     },
     {
