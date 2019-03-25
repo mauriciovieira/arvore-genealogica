@@ -59,7 +59,9 @@
       "born": 1958,
       "firstname": "Ana Angélica",
       "children": [
-        {"born": 1984, "firstname": "Wagner Carlos", "children": []},
+        {"born": 1984, "firstname": "Wagner Carlos", "children": [
+          {"born": 2019, "firstname": "Leticia"}
+        ]},
         {"born": 1989, "firstname": "Gabriel"}
       ]
     },
