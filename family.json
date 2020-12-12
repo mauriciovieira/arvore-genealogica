@@ -128,7 +128,8 @@
             },
             {
               "born": 1989,
-              "firstname": "Gabriel"
+              "firstname": "Gabriel",
+              "children": []
             }
           ]
         },
@@ -143,7 +144,8 @@
             },
             {
               "born": 1999,
-              "firstname": "Davi"
+              "firstname": "Davi",
+              "children": []
             }
           ]
         },
